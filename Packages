@@ -51,26 +51,6 @@ Author: Netskao
 Name: classickeyboardxs
 Sponsor: 苏苏
 
-Package: com.exile90.icleanerpros
-Version: 7.10.0
-Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
-Filename: ./debs/iCleaner Pro_7.10.0_iphoneos-arm64.deb
-Size: 978624
-MD5sum: 5c835cd226f01e8474b2e994aa7aad07
-SHA1: dbf012991e2e03c4ba11654eab60260e192da129
-SHA256: 02a22aefeb271c4dd3490e2c11841bcb565df26213b83060a6167c7909a357fc
-Section: Bootstrap
-Description: iCleaner Pro
- * 垃圾清理工具，启动项管理等
- * The first real iOS system cleanup and management utility
-Author: Ivano Bilenchi
-Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
-Name: iCleaner Pro
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
-
 Package: com.julioverne.spotilife
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -615,3 +595,22 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: susu.chatgpt.as
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Installed-Size: 805
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/susu.chatgpt.as_1.2.4_iphoneos-arm64.deb
+Size: 166260
+MD5sum: 8a68dacb9af2906c8a724c8a62dd2b7c
+SHA1: f84132fd92d8cd20c8c9c4c0317c4d3136a05a0d
+SHA256: 4f80e6b4f79b643d5779dac517cc38ed3dfcdf1be07592673abe072aca826dec
+Section: 应用
+Description: 苏苏为阿水AI制作的ios端应用 当前为越狱版
+Tag: purpose::extension
+Author: 苏苏
+Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@820bf31815ddce13140fbaa12c471377e57799fb/images/6263E5C5-519D-4B94-BBB8-F1D030F050B4.png
+Name: ChatGPT越狱版
+
